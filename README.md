@@ -3,6 +3,10 @@ A free and open-access curriculum for a course of study in the foundations of bi
 
 ## Unit 1: Physical Chemistry of Life
 
+### Big Idea:
+
+Particles form atoms, which form molecules, which form life, according to simple rules for the sharing of electrons.
+
 ### Chapter 1: Atoms
 #### Lesson 1: Charged Particles
 #### Lesson 2: Atomic Structure
@@ -25,6 +29,10 @@ A free and open-access curriculum for a course of study in the foundations of bi
 
 ## Unit 2: Evolution by Natural Selection
 
+### Big Idea:
+
+Any population of self replicating systems (replicators) in which the fitness of the child replicant differs from the parent replicator will inevitably result in adaptive change over successive generations.
+
 ### Chapter 1: Replication
 #### Lesson 1: DNA Replication
 #### Lesson 2: Crystals, Polymers, and Self-Replication
@@ -40,6 +48,10 @@ A free and open-access curriculum for a course of study in the foundations of bi
 
 ## Unit 3: Unity of Life
 
+### Big Idea:
+
+All life inherits the self-replicating DNA/RNA/Protein encoding system inside cell bound by permeable membranes.
+
 ### Chapter 1: Cells
 #### Lesson 1: LUCA’s Features
 #### Lesson 2: The Cell Membrane
@@ -52,6 +64,10 @@ A free and open-access curriculum for a course of study in the foundations of bi
 #### Lesson 3: Cellular Respiration and Photosynthesis
 
 ## Unit 4: Diversity of Life
+
+### Big Idea:
+
+Different adaptations can be equally effective, leading one population to become two, the process by which a single celled ancestor diversified repeatedly into all the life on Earth today.
 
 ### Chapter 1: Cladistics 
 #### Lesson 1: Lineages and Ancestry
@@ -86,6 +102,10 @@ A free and open-access curriculum for a course of study in the foundations of bi
 
 ## Unit 5: Adaptation, Convergence, and Ecology
 
+### Big Idea:
+
+Organisms have a complex web of relations to one another and their environment.
+
 ### Chapter 1: Trophism and Food Webs
 ### Chapter 2: Symbiosis
 #### Lesson 1: Mutualism
@@ -99,6 +119,10 @@ A free and open-access curriculum for a course of study in the foundations of bi
 #### Lesson 4: Future Climates
 
 ## Unit 6: The Discipline of Biology
+
+### Big Idea:
+
+Humans have always been exceptional at studying the world and applying what they learned.
 
 ### Chapter 1: History of Biology
 #### Lesson 1: Prehistoric Humans
