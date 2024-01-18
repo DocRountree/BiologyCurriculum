@@ -52,7 +52,7 @@ Any population of self replicating systems (replicators) in which the fitness of
 
 ### Big Idea:
 
-All life inherits the self-replicating DNA/RNA/Protein encoding system inside cell bound by permeable membranes.
+All life inherits the self-replicating DNA/RNA/Protein encoding system inside cells bound by permeable membranes.
 
 ### Chapter 1: Cells
 #### Lesson 1: LUCA’s Features
