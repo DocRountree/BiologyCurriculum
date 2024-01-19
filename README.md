@@ -1,7 +1,7 @@
 # Foundations of Biology: A Natural Approach
 A free and open-access curriculum for a course of study in the foundations of biology at the secondary and undergraduate level.
 
-![dover](https://github.com/DocRountree/BiologyCurriculum/assets/62248488/def68eea-86a2-4a5d-91f3-9bb963d13be1)
+![tree](https://github.com/DocRountree/BiologyCurriculum/assets/62248488/3f0bcc33-4678-4f8e-9efe-fed46f6f239c)
 
 ## Unit 1: Physical Chemistry of Life
 
