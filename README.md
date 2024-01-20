@@ -127,8 +127,8 @@ Organisms have a complex web of relations to one another and their environment.
 Humans have always been exceptional at studying the world and applying what they learned.
 
 ### Chapter 1: History of Biology
-#### Lesson 1: Prehistoric Humans
-#### Lesson 2: Ancient and Mediaeval Biology
+#### Lesson 1: Prehistoric Humanity
+#### Lesson 2: Early Biology
 #### Lesson 3: The Scientific Revolution
 #### Lesson 4: Darwin and Mendel
 #### Lesson 6: Molecular Biology
