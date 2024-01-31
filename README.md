@@ -118,7 +118,6 @@ Organisms have a complex web of relations to one another and their environment.
 #### Lesson 1: The Geological Record
 #### Lesson 2: Climate and Ecosystems
 #### Lesson 3: The Climate Crisis
-#### Lesson 4: Future Climates
 
 ## Unit 6: The Discipline of Biology
 
