@@ -1,5 +1,5 @@
 # Foundations of Biology: A Natural Approach
-A free and open-access curriculum for a course of study in the foundations of biology at the secondary and undergraduate level.
+A free and public-domain curriculum for a course of study in the foundations of biology at the secondary and undergraduate level.
 
 ![tree](https://github.com/DocRountree/BiologyCurriculum/assets/62248488/52634a79-33b0-455d-9ffe-9de7eaec5793)
 
